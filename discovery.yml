@@ -1,0 +1,10 @@
+spring:
+  application:
+    name: discovery
+  datasource:
+    url: localhost-test2
+    name: test6
+  cloud:
+    config:
+      uri: http://localhost:8081
+      name: discovery
