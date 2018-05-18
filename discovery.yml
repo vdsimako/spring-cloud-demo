@@ -19,7 +19,7 @@ spring:
 
 spring:
   profiles: prod
-  
+
   datasource:
     url: localhost-prod
-    name: prod02
+    name: prod01
