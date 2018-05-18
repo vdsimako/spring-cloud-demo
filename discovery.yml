@@ -2,7 +2,7 @@ spring:
   application:
     name: discovery
   datasource:
-    url: localhost-test2
+    url: localhost-test3
     name: test6
   cloud:
     config:
