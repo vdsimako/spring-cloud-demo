@@ -2,8 +2,8 @@ spring:
   application:
     name: discovery
   datasource:
-    url: localhost-test1
-    name: test-discovery
+    url: localhost-prod
+    name: prod
   cloud:
     config:
       uri: http://localhost:8081
