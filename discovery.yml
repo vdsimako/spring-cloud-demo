@@ -3,7 +3,7 @@ spring:
     name: discovery
   datasource:
     url: localhost-test2
-    name: test-test3
+    name: test
   cloud:
     config:
       uri: http://localhost:8081
