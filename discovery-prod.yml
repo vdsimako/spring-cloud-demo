@@ -3,7 +3,7 @@ spring:
     name: discovery
   datasource:
     url: localhost-prod
-    name: prod02
+    name: prod03
   cloud:
     config:
       uri: http://localhost:8081
