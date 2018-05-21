@@ -4,7 +4,3 @@ spring:
   datasource:
     url: localhost-prod
     name: prod03
-  cloud:
-    config:
-      uri: http://localhost:8081
-      name: discovery
